@@ -10,7 +10,7 @@
 
 An interactive, AWS-themed portfolio showcasing my skills, projects, and certifications with modern animations and responsive design.
 
-[![Live Demo](https://img.shields.io/badge/View_Live_Demo-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://k-vamshi17.github.io/portfolio)
+[![Live Demo](https://img.shields.io/badge/View_Live_Demo-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://k-vamshi17.github.io/vamshi-portfolio/)
 
 ![Portfolio Preview](./assets/Screenshot%202025-05-12%20003845.png)
 
